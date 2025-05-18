@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 # 🔐 inJWT
-```JWT Generator, Brute-force, Decoder & Verifier Tool | Open Source Version```
+```JWT Generator, Brute-force, Decoder & Verifier Tool | Open Source Version``` |
 A powerful and flexible CLI tool to generate, decode, verify, and brute-force JSON Web Tokens (JWT). Built for CTF, research, and educational purposes by **InREXnA**.
 
 ---
